@@ -4,7 +4,7 @@ Olá!!
 - 👯 Eu estou colaborando com minha equipe de criação de sistema 
 - 🤔 Eu estou procurando ajuda com desenvolvimento para a minha aquipe 
 - 💬 Pergunte mim sobre PHC 
-- 📫 Fale comigo por email / contato - @Lucas.mesquita13.lm@gmail.com / 85997801119
+- 📫 Fale comigo por email / contato - Lucas.mesquita13.lm@gmail.com / 85997801119
 - 😄 ele/dele 
 - ⚡ gosto de esportes ( futebol, futsal...) 
 
