@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá!!
+- 🔭Eu estou trabalhando programação Web 
+- 🌱 Eu estou aprendendo desenvolvimento de sistemas no senac 
+- 👯 Eu estou colaborando com minha equipe de criação de sistema 
+- 🤔 Eu estou procurando ajuda com desenvolvimento para a minha aquipe 
+- 💬érgunte mim sobre PHC 
+- 📫 Fale comingo por email - @Lucas.mesquita13.lm@gmail.com
+- 😄 ele/dele 
+- ⚡ gosto de esportes ( futebol, futsal...) 
 
-<!--
-**Lucca0011/Lucca0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
